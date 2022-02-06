@@ -7,14 +7,4 @@ From the lines
 Shield by shield
 Side by side
 We're marching into destiny
-<<<<<<< HEAD
 -----------------------------
-=======
-
-March as one
-Don't look back
-Oden's sons
-Attack!
-some content
-фтв руку
->>>>>>> 4bf8aab19f674c2b9f7218da6c045aeee9af473b
